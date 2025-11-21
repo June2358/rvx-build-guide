@@ -37,12 +37,12 @@ GmsCore(MicroG)와 RVX Manager를 Obtainium에 등록하여 설치합니다.
 
 **① GmsCore (구글 로그인 필수 서비스)**
 ```
-[https://github.com/ReVanced/GmsCore](https://github.com/ReVanced/GmsCore)
+https://github.com/ReVanced/GmsCore
 ```
 
 **② RVX Manager (패치 및 빌드 도구)**
 ```
-[https://github.com/inotia00/revanced-manager](https://github.com/inotia00/revanced-manager)
+https://github.com/inotia00/revanced-manager
 ```
 
 ### 1-2. 앱 설치 시 주의사항 (중요)
